@@ -1,0 +1,16 @@
+# Ignore text files
+*.txt
+
+# Ignore subtitle files
+*.srt
+*.sub
+*.vtt
+
+# Ignore HTML files
+*.html
+
+# Ignore .venv directory
+.venv/
+
+# Ignore .vscode directory
+.vscode/
